@@ -1,0 +1,8 @@
+langchain
+openai
+langchain-community
+tiktoken
+langchain-openai
+fastapi
+uvicorn
+google-search-results
